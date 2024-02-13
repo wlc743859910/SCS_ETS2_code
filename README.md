@@ -3,34 +3,55 @@
 ---
 
 本体
+
 已购买车库代码表：garages
+
 已访问公司代码表：companies
+
 已访问城市代码表：visited_cities
+
 卡车销售商代码表：unlocked_dealers
+
 已探索路网代码表：discovered_items
+
 司机介绍所代码表：unlocked_recruitments
+
 访问观光点代码表：discovered_cutscene_items
 
 ---
 
 本体+全DLC
+
 已购买车库代码表：garages
+
 已访问公司代码表：companies
+
 已访问城市代码表：visited_cities
+
 卡车销售商代码表：unlocked_dealers
+
 已探索路网代码表：discovered_items
+
 司机介绍所代码表：unlocked_recruitments
+
 访问观光点代码表：discovered_cutscene_items
 
 ---
 
 本体+全DLC+ProMods
+
 已购买车库代码表：garages
+
 已访问公司代码表：companies
+
 已访问城市代码表：visited_cities
+
 卡车销售商代码表：unlocked_dealers
+
 已探索路网代码表：discovered_items
+
 司机介绍所代码表：unlocked_recruitments
+
 访问观光点代码表：discovered_cutscene_items
 
 ---
