@@ -1,30 +1,63 @@
-# ETS2_code
+# SCS_ETS2_code
+
+---
+
+本体
+已购买车库代码表：garages
+已访问公司代码表：companies
+已访问城市代码表：visited_cities
+卡车销售商代码表：unlocked_dealers
+已探索路网代码表：discovered_items
+司机介绍所代码表：unlocked_recruitments
+访问观光点代码表：discovered_cutscene_items
+
+---
+
+本体+全DLC
+已购买车库代码表：garages
+已访问公司代码表：companies
+已访问城市代码表：visited_cities
+卡车销售商代码表：unlocked_dealers
+已探索路网代码表：discovered_items
+司机介绍所代码表：unlocked_recruitments
+访问观光点代码表：discovered_cutscene_items
+
+---
+
+本体+全DLC+ProMods
+已购买车库代码表：garages
+已访问公司代码表：companies
+已访问城市代码表：visited_cities
+卡车销售商代码表：unlocked_dealers
+已探索路网代码表：discovered_items
+司机介绍所代码表：unlocked_recruitments
+访问观光点代码表：discovered_cutscene_items
 
 ---
 
 <p align="center">
-  <img src="https://raw.github.ink/wlc743859910/ETS2_code/master/img/1.webp">
+  <img src="https://raw.github.ink/wlc743859910/SCS_ETS2_code/master/img/1.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.github.ink/wlc743859910/ETS2_code/master/img/2.webp">
+  <img src="https://raw.github.ink/wlc743859910/SCS_ETS2_code/master/img/2.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.github.ink/wlc743859910/ETS2_code/master/img/3.webp">
+  <img src="https://raw.github.ink/wlc743859910/SCS_ETS2_code/master/img/3.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.github.ink/wlc743859910/ETS2_code/master/img/4.webp">
+  <img src="https://raw.github.ink/wlc743859910/SCS_ETS2_code/master/img/4.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.github.ink/wlc743859910/ETS2_code/master/img/5.webp">
+  <img src="https://raw.github.ink/wlc743859910/SCS_ETS2_code/master/img/5.webp">
 </p>
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/{ETS2_code}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{SCS_ETS2_code}/count.svg)
 
 ---
 
