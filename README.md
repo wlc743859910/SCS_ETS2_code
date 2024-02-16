@@ -4,55 +4,55 @@
 
 本体
 
-已购买车库代码表：garages
+已购买车库代码表：[garages](https://raw.githubusercontent.com/wlc743859910/SCS_ETS2_code/master/body/garages.txt)
 
-已访问公司代码表：companies
+已访问公司代码表：[companies](https://raw.githubusercontent.com/wlc743859910/SCS_ETS2_code/master/body/companies.txt)
 
-已访问城市代码表：visited_cities
+已访问城市代码表：[visited_cities](https://raw.githubusercontent.com/wlc743859910/SCS_ETS2_code/master/body/visited_cities.txt)
 
-卡车销售商代码表：unlocked_dealers
+卡车销售商代码表：[unlocked_dealers](https://raw.githubusercontent.com/wlc743859910/SCS_ETS2_code/master/body/unlocked_dealers.txt)
 
-已探索路网代码表：discovered_items
+已探索路网代码表：[discovered_items](https://raw.githubusercontent.com/wlc743859910/SCS_ETS2_code/master/body/discovered_items.txt)
 
-司机介绍所代码表：unlocked_recruitments
+司机介绍所代码表：[unlocked_recruitments](https://raw.githubusercontent.com/wlc743859910/SCS_ETS2_code/master/body/unlocked_recruitments.txt)
 
-访问观光点代码表：discovered_cutscene_items
+访问观光点代码表：[discovered_cutscene_items](https://raw.githubusercontent.com/wlc743859910/SCS_ETS2_code/master/body/discovered_cutscene_items.txt)
 
 ---
 
 本体+全DLC
 
-已购买车库代码表：garages
+已购买车库代码表：[garages](https://raw.githubusercontent.com/wlc743859910/SCS_ETS2_code/master/body_DLC/garages.txt)
 
-已访问公司代码表：companies
+已访问公司代码表：[companies](https://raw.githubusercontent.com/wlc743859910/SCS_ETS2_code/master/body_DLC/companies.txt)
 
-已访问城市代码表：visited_cities
+已访问城市代码表：[visited_cities](https://raw.githubusercontent.com/wlc743859910/SCS_ETS2_code/master/body_DLC/visited_cities.txt)
 
-卡车销售商代码表：unlocked_dealers
+卡车销售商代码表：[unlocked_dealers](https://raw.githubusercontent.com/wlc743859910/SCS_ETS2_code/master/body_DLC/unlocked_dealers.txt)
 
-已探索路网代码表：discovered_items
+已探索路网代码表：[discovered_items](https://raw.githubusercontent.com/wlc743859910/SCS_ETS2_code/master/body_DLC/discovered_items.txt)
 
-司机介绍所代码表：unlocked_recruitments
+司机介绍所代码表：[unlocked_recruitments](https://raw.githubusercontent.com/wlc743859910/SCS_ETS2_code/master/body_DLC/unlocked_recruitments.txt)
 
-访问观光点代码表：discovered_cutscene_items
+访问观光点代码表：[discovered_cutscene_items](https://raw.githubusercontent.com/wlc743859910/SCS_ETS2_code/master/body_DLC/discovered_cutscene_items.txt)
 
 ---
 
 本体+全DLC+ProMods
 
-已购买车库代码表：garages
+已购买车库代码表：[garages](https://raw.githubusercontent.com/wlc743859910/SCS_ETS2_code/master/Body_DLC_ProMods/garages.txt)
 
-已访问公司代码表：companies
+已访问公司代码表：[companies](https://raw.githubusercontent.com/wlc743859910/SCS_ETS2_code/master/Body_DLC_ProMods/companies.txt)
 
-已访问城市代码表：visited_cities
+已访问城市代码表：[visited_cities](https://raw.githubusercontent.com/wlc743859910/SCS_ETS2_code/master/Body_DLC_ProMods/visited_cities.txt)
 
-卡车销售商代码表：unlocked_dealers
+卡车销售商代码表：[unlocked_dealers](https://raw.githubusercontent.com/wlc743859910/SCS_ETS2_code/master/Body_DLC_ProMods/unlocked_dealers.txt)
 
-已探索路网代码表：discovered_items
+已探索路网代码表：[discovered_items](https://raw.githubusercontent.com/wlc743859910/SCS_ETS2_code/master/Body_DLC_ProMods/discovered_items.txt)
 
-司机介绍所代码表：unlocked_recruitments
+司机介绍所代码表：[unlocked_recruitments](https://raw.githubusercontent.com/wlc743859910/SCS_ETS2_code/master/Body_DLC_ProMods/unlocked_recruitments.txt)
 
-访问观光点代码表：discovered_cutscene_items
+访问观光点代码表：[discovered_cutscene_items](https://raw.githubusercontent.com/wlc743859910/SCS_ETS2_code/master/Body_DLC_ProMods/discovered_cutscene_items.txt)
 
 ---
 
